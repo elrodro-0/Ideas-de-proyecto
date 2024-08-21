@@ -11,7 +11,6 @@ Su interfaz es amigable y segura, y la información sobre los productos está ve
 ### Aplicaciones similares
 
 - [Biked](https://play.google.com/store/search?q=biked&c=apps&hl=es_CO&gl=US)
-- [Buycycle](https://play.google.com/store/apps/details?id=com.buycycle.mobile&hl=es_CO&gl=US)
 - [Bicycle Exchange Sprocket](https://play.google.com/store/apps/details?id=com.retrographic.sprocket&hl=es_CO&gl=US)
 - [Bicimarket](https://play.google.com/store/search?q=bicimarket&c=apps&hl=es_CO&gl=US)
 
